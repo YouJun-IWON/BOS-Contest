@@ -1043,5 +1043,17 @@ return (
         </FlexContainer>
       </div>
     </div>
+   
+     {/* Coin DNFT Component */}
+      {/* Social DNFT Component */}
+       {/* Social Heart DNFT Component */}
+       {/* BOS Component DNFT Component */}
   </Container>
 );
+
+
+
+<Widget
+src="7649ed19fe15dead3bb479bbbf3acd3a2b337eead0999673d20b9935e4d60d8e/widget/CoinDNFT"
+props={{ nfts: nfts }}
+/>
