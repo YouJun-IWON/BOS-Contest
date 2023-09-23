@@ -1,4 +1,4 @@
-Near BOS contest 제출작 
+[Collegium - BOS] 콘테스트 참여 제출작 
 
 ### dNFT Minting Component
 
